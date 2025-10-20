@@ -1,0 +1,4 @@
+# Seznamy
+
+* filmy
+* seriály
